@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e22d1c4773a56371cc2ef603",
+  "owner": "ceuytahcswgz",
+  "repo": "page-a9c57298453e33b0bc78a46a",
+  "title": "辉夜",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a9c57298453e33b0bc78a46a",
+      "a": "辉夜",
+      "b": "机场官网线路发布页",
+      "entity": "辉夜",
+      "brand": "辉夜",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d6c95eb77163cac607b29eedba24dc2b30985ce3200b591194f1445bb1a9e002",
+      "content": {
+        "primary_entity": "辉夜",
+        "keyword1": "辉夜",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，订阅一次即可在常用设备上使用，注意各平台订阅导入方式略有不同。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，然后按客户端指引导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，立即开始",
+          "AI_DESCRIPTION": "，辉夜提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB 与 1000GB 流量，设备数依次为 3 台、5 台与 20 台。旗舰版带 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持企业定制路由。客户端按设备类型选择，订阅配置参考各端导入说明。",
+          "AI_FAQ_ANSWER_1": "基础版适合手机加电脑共 3 台设备的轻度使用；旗舰版 5 台设备并带 IPLC 专线游戏优化，适合同时有游戏与流媒体需求的用户；团队版 20 台设备与定制路由适合多人共享。",
+          "AI_FAQ_ANSWER_2": "月付可按月灵活续费，年付分别只需 ¥150、¥350 与 ¥850，折合每月更低。短期体验选月付，长期稳定使用选年付更划算。",
+          "AI_FAQ_ANSWER_3": "在客户端中新建订阅，粘贴购买后获得的订阅地址并保存，再选择节点连接。不同系统导入方式不同，可参考客户端自带的订阅导入说明。",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。可先在少量设备上体验，需要更多设备时再升级套餐。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点和专属客户经理服务，按需求选择对应档位即可。",
+          "AI_FAQ_INTRO": "套餐差异、设备数量、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "月付和年付应该怎么选？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数量不够怎么办？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁和游戏加速包含在哪些套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路质量三个方面对比三档套餐，按实际需求选择。",
+          "AI_FEATURES_TITLE": "套餐与选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付分别仅需 ¥150、¥350 与 ¥850，长期使用可按年付降低每月成本。",
+          "AI_FEATURE_TITLE_1": "流量与设备梯度",
+          "AI_FEATURE_TITLE_2": "线路与解锁差异",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "先确定流量与设备需求，再看线路适配情况，最后按客户端说明导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "辉夜提供基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备数量需求。旗舰版带 IPLC 专线游戏加速优化，团队版支持企业定制路由，可按设备情况选择客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付低至每月约 ¥12.5 起",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备并带 IPLC 专线；团队版 1000GB、20 台设备。按流量和设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的线路与解锁范围，确认设备类型和系统是否在客户端支持范围内。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入说明添加订阅，保存后选择节点连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "辉夜套餐与客户端指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tdhpjcd.cn",
+    "host": "tdhpjcd.cn"
+  },
+  "file_hashes": {
+    "index.html": "a1cfc51e4675cb2b28d865417449c84559a2b53f72f54b94be44985b7c45b566",
+    "sitemap.xml": "c4c0677b7b74c1b7fe6f15d4cc664017d04106d1d1602fb4f56d35356e89e699",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0925a697bb9064207bdd4ee1f2453adcb4f3a74741f927eb4678021c5ad9cf88",
+    "robots.txt": "09587d3ae2ddf035ed594d1f7c995dca4397b83777da7e095de8bca5214e3709",
+    "de7ce812dc2199caf8b7d10dc269c848.txt": "05de6bade5722faa310df4dd3368a3bfd7f86594ab701eb5bd89c90334379ff2"
+  },
+  "revision": "6b96d32218fde6189ece39d2f711c22cc20fcef0a4ec77ec21e9c357a45eea52"
+}
